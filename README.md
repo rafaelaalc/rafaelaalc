@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafaelaalc
 - 👀 I’m interested in cats, music, lgbtqia+ culture, programming, games and sports!
-- 🌱 I’m currently learning Javascript & Typescript :)
-- 💞️ I’m looking to collaborate on my squad at tksolution.
+- 🌱 I’m currently learning Kotlin & Spring :)
+- 💞️ I’m looking to collaborate with my team and develop my personal skills.
 - 📫 How to reach me: rafaelaalc_@outlook.com
 
 <!---
